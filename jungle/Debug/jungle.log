@@ -1,0 +1,8 @@
+﻿  Solution.cpp
+f:\study\c++_project\jungle\jungle\solution.h(53): warning C4018: “<”: 有符号/无符号不匹配
+f:\study\c++_project\jungle\jungle\solution.h(140): warning C4018: “<”: 有符号/无符号不匹配
+f:\study\c++_project\jungle\jungle\solution.h(148): warning C4018: “<”: 有符号/无符号不匹配
+f:\study\c++_project\jungle\jungle\solution.h(151): warning C4018: “<”: 有符号/无符号不匹配
+f:\study\c++_project\jungle\jungle\solution.h(375): warning C4018: “<”: 有符号/无符号不匹配
+  jungle.vcxproj -> F:\study\C++_Project\jungle\Debug\jungle.exe
+  jungle.vcxproj -> F:\study\C++_Project\jungle\Debug\jungle.pdb (Partial PDB)
